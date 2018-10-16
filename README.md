@@ -1,4 +1,4 @@
-# VerilogABC
+# VerilogABC: while I was learning ABC of Verilog 
 Verilog codes for the following:
   1. One bit Half Adder 
   2. One bit Full Adder using Half Adder 
